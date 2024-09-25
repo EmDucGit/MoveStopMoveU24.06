@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab2a2c25e10494cb7a560691d070f5e7, type: 3}
+  m_Name: WeaponSO
+  m_EditorClassIdentifier: 
+  weapons:
+  - icon: {fileID: 2800000, guid: 00e27df0534a543f1a2623c8123ae743, type: 3}
+    name: Axe1
+    price: 100
+    isPur: 1
+    weapon: {fileID: -360551536672119648, guid: 115406b17f73646cda90a69158c2162b, type: 3}
+  - icon: {fileID: 2800000, guid: 9dc4886f26c0948dd8889f300bb78519, type: 3}
+    name: Axe2
+    price: 200
+    isPur: 0
+    weapon: {fileID: -1537184638056502577, guid: 24df1d8979d0747c3ae3640e26c20f50, type: 3}
+  - icon: {fileID: 2800000, guid: 6ab55ad84524943aeae405ce7bf4cf8f, type: 3}
+    name: Candy
+    price: 300
+    isPur: 0
+    weapon: {fileID: 1802393823253147915, guid: 3afcc91de02b144cb889e1c3d1ed5e9e, type: 3}
+  - icon: {fileID: 2800000, guid: acf5798f8424d4d4f978e4d01b2c6fac, type: 3}
+    name: Hammer
+    price: 400
+    isPur: 0
+    weapon: {fileID: 7961140035722154989, guid: 602d4848238364f04b05a530085fbe8d, type: 3}
+  - icon: {fileID: 2800000, guid: 1d7258eb0586c411f856a9781fdcddbb, type: 3}
+    name: IceCream
+    price: 500
+    isPur: 0
+    weapon: {fileID: 571596202825696419, guid: 62c2519c2aa004cc8a9ec7b6a3db1a54, type: 3}
+  - icon: {fileID: 2800000, guid: cdfbbc10499cd4c03981f8ebd0c37678, type: 3}
+    name: Knife
+    price: 600
+    isPur: 0
+    weapon: {fileID: 1255437429990441068, guid: 61c3ca9dc007d4ddfa7433a7773a2f61, type: 3}

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B9792FE8-54F5-A96E-2620-BBDF0C8EBB59}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a01faa47-e44b-4567-9949-e6bc2c973850" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WeaponSO.cs" Line="21" Column="38" />
+      <File FileName="Assets/Scripts/WeaponShopItemUI.cs" Line="10" Column="29" />
+      <File FileName="Assets/Scripts/WeaponShopItem.cs" Line="12" Column="26" />
+      <File FileName="Assets/Scripts/ShopGen.cs" Line="38" Column="50" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="51" Column="1" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="20" Column="72" />
+      <File FileName="Assets/Scripts/Character.cs" Line="90" Column="24" />
+      <File FileName="Assets/Scripts/Player.cs" Line="79" Column="32" />
+      <File FileName="Assets/Scripts/WeaponBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="18" Column="9" />
+      <File FileName="Assets/Scripts/ActionManager.cs" />
+      <File FileName="Assets/Scripts/BotType.cs" />
+      <File FileName="Assets/Scripts/LevelManager.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" />
+      <File FileName="Assets/Scripts/CacheString.cs" />
+      <File FileName="Assets/Scripts/Rotate.cs" />
+      <File FileName="Assets/Scripts/SpawnZone.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
